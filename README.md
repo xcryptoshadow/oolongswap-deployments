@@ -15,5 +15,6 @@
 - USDT: `0x5AF6e207349e454bC3c4cb7411C77ba090Cf0030`
 
 ## BOBA-MAINNET
-- Factory: ``
-- Router: ``
+- Factory: [0x7DDaF116889D655D1c486bEB95017a8211265d29](https://blockexplorer.boba.network/address/0x7DDaF116889D655D1c486bEB95017a8211265d29)
+- Router: [0x17C83E2B96ACfb5190d63F5E46d93c107eC0b514](https://blockexplorer.boba.network/address/0x17C83E2B96ACfb5190d63F5E46d93c107eC0b514)
+- OolongToken: [0x5008F837883EA9a07271a1b5eB0658404F5a9610](https://blockexplorer.boba.network/address/0x5008F837883EA9a07271a1b5eB0658404F5a9610)
