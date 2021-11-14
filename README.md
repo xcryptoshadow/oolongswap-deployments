@@ -18,10 +18,22 @@
 
 
 ## BOBA-MAINNET
+
+### OolongSwap Core
+- WETH: `0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000`
 - Factory: [0x7DDaF116889D655D1c486bEB95017a8211265d29](https://blockexplorer.boba.network/address/0x7DDaF116889D655D1c486bEB95017a8211265d29)
 - Router: [0x17C83E2B96ACfb5190d63F5E46d93c107eC0b514](https://blockexplorer.boba.network/address/0x17C83E2B96ACfb5190d63F5E46d93c107eC0b514)
-- WETH: `0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000`
 - Multicall: [0xfb91c019D9F12A0f9c23B4762fa64A34F8daDb4A](https://blockexplorer.boba.network/address/0xfb91c019D9F12A0f9c23B4762fa64A34F8daDb4A)
+
+### Oolong DAO
 - OolongToken: [0x5008F837883EA9a07271a1b5eB0658404F5a9610](https://blockexplorer.boba.network/address/0x5008F837883EA9a07271a1b5eB0658404F5a9610)
 - Converter: [0x74a50500cBadBc813A9cf67c1298F5d0caF37122](https://blockexplorer.boba.network/address/0x74a50500cBadBc813A9cf67c1298F5d0caF37122)
 - PCV: [0x0193EAc18e78c449117c3C5C05919E3989E6Cd58](https://blockexplorer.boba.network/address/0x0193EAc18e78c449117c3C5C05919E3989E6Cd58)
+- Treasury: [0x73887B51EC5ca7E6F70b3bE7aCc1f07e468843D4](https://blockexplorer.boba.network/address/0x73887B51EC5ca7E6F70b3bE7aCc1f07e468843D4)
+
+### Farm
+- OolongFarm: [](https://blockexplorer.boba.network/address/)
+- OolongFarm TokenDistributor: [0x4158576eEaeb2fB1B0Bd24a10E67D49Ac22C1589](https://blockexplorer.boba.network/address/0x4158576eEaeb2fB1B0Bd24a10E67D49Ac22C1589)
+- Cliff (Team): [0xcDbf587fE5bF550A3f291c5F57b2d6287Ca68566](https://blockexplorer.boba.network/address/0xcDbf587fE5bF550A3f291c5F57b2d6287Ca68566)
+- Cliff (Angel): [0x2c8AD9148dAFaef7B5b0236f82358d906Ac066eA](https://blockexplorer.boba.network/address/0x2c8AD9148dAFaef7B5b0236f82358d906Ac066eA)
+- Angel TokenDistributor: [0x02ff2D41b2BE9E8Ecbec0370390ffb0Cd991DAfe](https://blockexplorer.boba.network/address/0x02ff2D41b2BE9E8Ecbec0370390ffb0Cd991DAfe)
