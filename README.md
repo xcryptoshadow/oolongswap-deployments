@@ -37,3 +37,17 @@
 - Cliff (Team): [0xcDbf587fE5bF550A3f291c5F57b2d6287Ca68566](https://blockexplorer.boba.network/address/0xcDbf587fE5bF550A3f291c5F57b2d6287Ca68566)
 - Cliff (Angel): [0x2c8AD9148dAFaef7B5b0236f82358d906Ac066eA](https://blockexplorer.boba.network/address/0x2c8AD9148dAFaef7B5b0236f82358d906Ac066eA)
 - Angel TokenDistributor: [0x02ff2D41b2BE9E8Ecbec0370390ffb0Cd991DAfe](https://blockexplorer.boba.network/address/0x02ff2D41b2BE9E8Ecbec0370390ffb0Cd991DAfe)
+
+### Oolong Farm Pool ID Mapping
+
+| Pool ID | LP Address | Pair | Allocation Points |
+| ---- | -------- | ---- | ---- |
+| 0 | 0x547b227a77813ea70aacf01212b39db7b560fa1c | USDC/WETH | 300 |
+| 1 | 0xeef227ecccec2213f80bb92cb648b0ddbaab00ab | WBTC/WETH | 300 |
+| 2 | 0x232130d2802c283eb870586cab8ee49f8ea0b181 | USDT/WETH | 100 |
+| 3 | 0x0702DcBc1D1FDa03163eF3a20e6941364cBb424C | DAI/USDC | 30 |
+| 4 | 0x2b4eb79f682629517523ecca9feeb7768b3bc149 | WETH/OMG | 100 |
+| 5 | 0x0e971c131bbb7347016fb24fc4b3f93f894f3e61 | WETH/AVAX | 30 |
+| 6 | 0x7ecaddb89637b1b0a83693cd5c54432aff6c61a0 | BNB/WETH | 30 |
+| 7 | 0x62a51506a3c70e0d9944bc0d35b7f3560e69039d | FTM/WETH | 10 |
+| 8 | 0x1e20184f850dec2b701a3e2bcaf4236c4d1d4345 | MATIC/WETH | 10 |
