@@ -39,6 +39,10 @@
 - Cliff (Angel): [0x2c8AD9148dAFaef7B5b0236f82358d906Ac066eA](https://blockexplorer.boba.network/address/0x2c8AD9148dAFaef7B5b0236f82358d906Ac066eA)
 - Angel TokenDistributor: [0x02ff2D41b2BE9E8Ecbec0370390ffb0Cd991DAfe](https://blockexplorer.boba.network/address/0x02ff2D41b2BE9E8Ecbec0370390ffb0Cd991DAfe)
 
+### Bond
+- BondReserveStaging: [0x38e4c3fd12Ef3B5728B2A604cECd5Ef1dE0D642D](https://blockexplorer.boba.network/address/0x38e4c3fd12Ef3B5728B2A604cECd5Ef1dE0D642D)
+- BondReserveStakingWrapper: [0xe23be666C7b90c906fA68579F6B18CbD77520CD5](https://blockexplorer.boba.network/address/0xe23be666C7b90c906fA68579F6B18CbD77520CD5)
+
 ### Oolong Farm Pool ID Mapping
 
 | Pool ID | LP Address | Pair | Allocation Points |
@@ -54,3 +58,4 @@
 | 8 | 0x1e20184f850dec2b701a3e2bcaf4236c4d1d4345 | MATIC/WETH | 5 |
 | 9 | 0x077c28868b84c4b420638ef97041764effbb2428 | BOBA/WETH | 150 |
 | 10 | 0xf5Ffa0aAbf101e651F6Cf722031d4EFeDC835b67 | OLO/WETH | 500 |
+| 11 | 0xe23be666C7b90c906fA68579F6B18CbD77520CD5 | BondReserveStakingWrapper | 0 |
