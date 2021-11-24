@@ -48,17 +48,19 @@
 
 | Pool ID | LP Address | Pair | Allocation Points | Bonus Farm | Bonus Reward |
 | ---- | -------- | ---- | ---- | -------- | ---- |
-| 0 | 0x547b227a77813ea70aacf01212b39db7b560fa1c | USDC/WETH | 200 | | |
-| 1 | 0xeef227ecccec2213f80bb92cb648b0ddbaab00ab | WBTC/WETH | 100 | | |
+| 0 | 0x547b227a77813ea70aacf01212b39db7b560fa1c | USDC/WETH | 100 | | |
+| 1 | 0xeef227ecccec2213f80bb92cb648b0ddbaab00ab | WBTC/WETH | 50 | | |
 | 2 | 0x232130d2802c283eb870586cab8ee49f8ea0b181 | USDT/WETH | 50 | | |
 | 3 | 0x0702DcBc1D1FDa03163eF3a20e6941364cBb424C | DAI/USDC | 10 | | |
-| 4 | 0x2b4eb79f682629517523ecca9feeb7768b3bc149 | WETH/OMG | 80 | | |
-| 5 | 0x0e971c131bbb7347016fb24fc4b3f93f894f3e61 | WETH/AVAX | 20 | | |
-| 6 | 0x7ecaddb89637b1b0a83693cd5c54432aff6c61a0 | BNB/WETH | 10 | | |
-| 7 | 0x62a51506a3c70e0d9944bc0d35b7f3560e69039d | FTM/WETH | 5 | | |
-| 8 | 0x1e20184f850dec2b701a3e2bcaf4236c4d1d4345 | MATIC/WETH | 5 | | |
-| 9 | 0x077c28868b84c4b420638ef97041764effbb2428 | BOBA/WETH | 150 | | |
+| 4 | 0x2b4eb79f682629517523ecca9feeb7768b3bc149 | WETH/OMG | 30 | | |
+| 5 | 0x0e971c131bbb7347016fb24fc4b3f93f894f3e61 | WETH/AVAX | 5 | | |
+| 6 | 0x7ecaddb89637b1b0a83693cd5c54432aff6c61a0 | BNB/WETH | 5 | | |
+| 7 | 0x62a51506a3c70e0d9944bc0d35b7f3560e69039d | FTM/WETH | 2 | | |
+| 8 | 0x1e20184f850dec2b701a3e2bcaf4236c4d1d4345 | MATIC/WETH | 1 | | |
+| 9 | 0x077c28868b84c4b420638ef97041764effbb2428 | BOBA/WETH | 100 | | |
 | 10 | 0xf5Ffa0aAbf101e651F6Cf722031d4EFeDC835b67 | OLO/WETH | 500 | | |
 | 11 | 0xe23be666C7b90c906fA68579F6B18CbD77520CD5 | BondReserveStakingWrapper | 300 | | |
-| 12 | 0x6855c768399580be57de4e556473972afcf62818 | BDOGE/ETH | 10 | 0xcc8dFE98D39Aeb15707597B99c8a5376c9bb6A7B | BDOGE |
+| 12 | 0x6855c768399580be57de4e556473972afcf62818 | BDOGE/ETH | 1 | 0xcc8dFE98D39Aeb15707597B99c8a5376c9bb6A7B | BDOGE |
+| 13 | 0xce37d81713a25373e92475c5b9bd2c4980dfab76 | BOBA/USDC | 150 | | |
+| 14 | 0x9df94a1a38ab34f85ce669f38aa3e5fd6b87aef9 | OLO/USDC | 150 | | |
 
