@@ -62,9 +62,3 @@
 | 11 | 0xe23be666C7b90c906fA68579F6B18CbD77520CD5 | BondReserveStakingWrapper | 300 | | |
 | 12 | 0x6855c768399580be57de4e556473972afcf62818 | BDOGE/ETH | 10 | 0xcc8dFE98D39Aeb15707597B99c8a5376c9bb6A7B | BDOGE |
 
-### Bonus Farms
-| Parent Pool ID | Bonus Farm Address | Reward Token |
-| ---- | -------- | ---- |
-| 12 | 0xcc8dFE98D39Aeb15707597B99c8a5376c9bb6A7B | BDOGE |
-
-
