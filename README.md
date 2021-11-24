@@ -65,6 +65,6 @@
 ### Bonus Farms
 | Parent Pool ID | Bonus Farm Address | Reward Token |
 | ---- | -------- | ---- |
-| 12 | 0x459DB26c891319FC1C0d392F097694971D5fB5A6 | BDOGE |
+| 12 | 0xcc8dFE98D39Aeb15707597B99c8a5376c9bb6A7B | BDOGE |
 
 
