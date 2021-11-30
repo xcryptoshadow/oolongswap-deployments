@@ -66,5 +66,5 @@
 | 15 | 0x47ffe3589ab3365e4369a7303a04019762d69d36 | BUSD/USDC | 15 | | 
 
 ### Dynamic Fee Pairs
-BUSD/USDC: `0.15%`
+BUSD/USDC: `0.03%`
 
