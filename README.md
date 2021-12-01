@@ -40,6 +40,10 @@
 - Cliff (Angel): [0x2c8AD9148dAFaef7B5b0236f82358d906Ac066eA](https://blockexplorer.boba.network/address/0x2c8AD9148dAFaef7B5b0236f82358d906Ac066eA)
 - Angel TokenDistributor: [0x02ff2D41b2BE9E8Ecbec0370390ffb0Cd991DAfe](https://blockexplorer.boba.network/address/0x02ff2D41b2BE9E8Ecbec0370390ffb0Cd991DAfe)
 
+## Staking
+- OolongStaker (YOLO): [0xb828dfc55B4883C6C587C1404F91af3cDbe94C14](https://blockexplorer.boba.network/address/0xb828dfc55B4883C6C587C1404F91af3cDbe94C14)
+- YOLOStakingWrapper: [0x93e3eA06eaA21e6fb0e69dC15e4959c99BA5789C](https://blockexplorer.boba.network/address/0x93e3eA06eaA21e6fb0e69dC15e4959c99BA5789C)
+
 ### Bond
 - BondReserveStaging: [0x38e4c3fd12Ef3B5728B2A604cECd5Ef1dE0D642D](https://blockexplorer.boba.network/address/0x38e4c3fd12Ef3B5728B2A604cECd5Ef1dE0D642D)
 - BondReserveStakingWrapper: [0xe23be666C7b90c906fA68579F6B18CbD77520CD5](https://blockexplorer.boba.network/address/0xe23be666C7b90c906fA68579F6B18CbD77520CD5)
@@ -64,6 +68,7 @@
 | 13 | 0xce37d81713a25373e92475c5b9bd2c4980dfab76 | BOBA/USDC | 0 | | |
 | 14 | 0x9df94a1a38ab34f85ce669f38aa3e5fd6b87aef9 | OLO/USDC | 95 | | |
 | 15 | 0x47ffe3589ab3365e4369a7303a04019762d69d36 | BUSD/USDC | 15 | | 
+| 16 | 0x93e3eA06eaA21e6fb0e69dC15e4959c99BA5789C | YOLOStakingWrapper | 0 | | |
 
 ### Dynamic Fee Pairs
 BUSD/USDC: `0.03%`
