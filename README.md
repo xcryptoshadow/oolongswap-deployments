@@ -34,6 +34,7 @@
 - Converter: [0x74a50500cBadBc813A9cf67c1298F5d0caF37122](https://blockexplorer.boba.network/address/0x74a50500cBadBc813A9cf67c1298F5d0caF37122)
 - PCV: [0x0193EAc18e78c449117c3C5C05919E3989E6Cd58](https://blockexplorer.boba.network/address/0x0193EAc18e78c449117c3C5C05919E3989E6Cd58)
 - Treasury: [0x73887B51EC5ca7E6F70b3bE7aCc1f07e468843D4](https://blockexplorer.boba.network/address/0x73887B51EC5ca7E6F70b3bE7aCc1f07e468843D4)
+- Timelock: [0x4ac085A62FE0EC0d03d1264D4db70a23Dcc6AfC3](https://blockexplorer.boba.network/address/0x4ac085A62FE0EC0d03d1264D4db70a23Dcc6AfC3)
 
 ### Farm
 - OolongFarm: [0x31B9FBd965397d697D2dAa434EbD219aB878E49B](https://blockexplorer.boba.network/address/0x31B9FBd965397d697D2dAa434EbD219aB878E49B)
