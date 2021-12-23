@@ -60,7 +60,7 @@
 
 | Pool ID | LP Address | Pair | Allocation Points | Pool Weight | Bonus Farm | Bonus Reward |
 | ---- | -------- | ---- | ---- | ---- | -------- | ---- |
-| 0 | 0x547b227a77813ea70aacf01212b39db7b560fa1c | USDC/WETH | 100 | 7.7%| | |
+| 0 | 0x547b227a77813ea70aacf01212b39db7b560fa1c | USDC/WETH | 100 | 7.5%| | |
 | 1 | 0xeef227ecccec2213f80bb92cb648b0ddbaab00ab | WBTC/WETH | 50 | 3.8% | | |
 | 2 | 0x232130d2802c283eb870586cab8ee49f8ea0b181 | USDT/WETH | 50 | 3.8% | | |
 | 3 | 0x0702DcBc1D1FDa03163eF3a20e6941364cBb424C | DAI/USDC | 15 | 1% | | |
@@ -70,21 +70,21 @@
 | 7 | 0x62a51506a3c70e0d9944bc0d35b7f3560e69039d | FTM/WETH | 10 | 0.7% | | |
 | 8 | 0x1e20184f850dec2b701a3e2bcaf4236c4d1d4345 | MATIC/WETH | 10 | 0.7% | | |
 | 9 | 0x077c28868b84c4b420638ef97041764effbb2428 | BOBA/WETH | 75 | 5.7% | | |
-| 10 | 0xf5Ffa0aAbf101e651F6Cf722031d4EFeDC835b67 | OLO/WETH | 425 | 32.5% | | |
+| 10 | 0xf5Ffa0aAbf101e651F6Cf722031d4EFeDC835b67 | OLO/WETH | 425 | 32% | | |
 | 11 | 0xe23be666C7b90c906fA68579F6B18CbD77520CD5 | BondReserveStakingWrapper | 2000 | null | | |
 | 12 | 0x6855c768399580be57de4e556473972afcf62818 | BDOGE/WETH | 1 | 0.07% | 0xcc8dFE98D39Aeb15707597B99c8a5376c9bb6A7B | BDOGE |
 | 13 | 0xce37d81713a25373e92475c5b9bd2c4980dfab76 | BOBA/USDC | 0 | 0% | | |
-| 14 | 0x9df94a1a38ab34f85ce669f38aa3e5fd6b87aef9 | OLO/USDC | 150 | 11.5% | | |
+| 14 | 0x9df94a1a38ab34f85ce669f38aa3e5fd6b87aef9 | OLO/USDC | 150 | 11% | | |
 | 15 | 0x47ffe3589ab3365e4369a7303a04019762d69d36 | BUSD/USDC | 20 | 1.5% | | |  
-| 16 | 0x93e3eA06eaA21e6fb0e69dC15e4959c99BA5789C | YOLOStakingWrapper | 350 | 26.8% | | |
+| 16 | 0x93e3eA06eaA21e6fb0e69dC15e4959c99BA5789C | YOLOStakingWrapper | 350 | 26% | | |
 | 17 | 0xe3142701189C6afCC3346ed7f70AB05D307B78c1 | BORING/WETH | 1 | 0.07% | 0x87bfFf88f1Af399351FA5A1c408084120B38FCAa | BORING |
-| 18 | 0xbdd5df250594cdd5451ee7bbd52b8e30f4a5478d | aCYBER/FRAX | 0 | 0% | 0x1B8778cf87990c685920799A76611db5FcE6B88e | aCYBER |
+| 18 | 0xbdd5df250594cdd5451ee7bbd52b8e30f4a5478d | aCYBER/FRAX | 30 | 2.24% | 0x1B8778cf87990c685920799A76611db5FcE6B88e | aCYBER |
 
-*Total pool weight (excluding reduction to bonding reserve) = 1307
+*Total pool weight (excluding reduction to bonding reserve) = 1337
 
-*Native percentage = 71%
+*Native percentage = 69%
 
-*Non-native percentage = 29%
+*Non-native percentage = 31%
 
 ### Dynamic Fee Pairs
 BUSD/USDC: `0.03%`
