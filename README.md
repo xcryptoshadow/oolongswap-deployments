@@ -89,3 +89,7 @@
 ### Dynamic Fee Pairs
 BUSD/USDC: `0.03%`
 
+### CyberTeapot NFT
+`0xeE1925cd738645d73c7fa9c1698EC9783188c11c`
+
+
