@@ -38,7 +38,7 @@
 - OolongToken: [0x5008F837883EA9a07271a1b5eB0658404F5a9610](https://blockexplorer.boba.network/address/0x5008F837883EA9a07271a1b5eB0658404F5a9610)
 - Converter: [0x74a50500cBadBc813A9cf67c1298F5d0caF37122](https://blockexplorer.boba.network/address/0x74a50500cBadBc813A9cf67c1298F5d0caF37122)
 - PCV: [0x0193EAc18e78c449117c3C5C05919E3989E6Cd58](https://blockexplorer.boba.network/address/0x0193EAc18e78c449117c3C5C05919E3989E6Cd58)
-- PCV_V2: [0xd67b412f1B4f6Db87E4D4Bbe98F8c3297D3c3FbC](https://blockexplorer.boba.network/address/0xd67b412f1B4f6Db87E4D4Bbe98F8c3297D3c3FbC)
+- PCV_V2: [0xF4082215cf4A6BE59eD8c206b276161eA8B49970](https://blockexplorer.boba.network/address/0xF4082215cf4A6BE59eD8c206b276161eA8B49970)
 - Treasury: [0x73887B51EC5ca7E6F70b3bE7aCc1f07e468843D4](https://blockexplorer.boba.network/address/0x73887B51EC5ca7E6F70b3bE7aCc1f07e468843D4)
 - Timelock: [0x4ac085A62FE0EC0d03d1264D4db70a23Dcc6AfC3](https://blockexplorer.boba.network/address/0x4ac085A62FE0EC0d03d1264D4db70a23Dcc6AfC3)
 
