@@ -58,6 +58,10 @@
 ### Bond
 - BondReserveStaging: [0x38e4c3fd12Ef3B5728B2A604cECd5Ef1dE0D642D](https://blockexplorer.boba.network/address/0x38e4c3fd12Ef3B5728B2A604cECd5Ef1dE0D642D)
 - BondReserveStakingWrapper: [0xe23be666C7b90c906fA68579F6B18CbD77520CD5](https://blockexplorer.boba.network/address/0xe23be666C7b90c906fA68579F6B18CbD77520CD5)
+- BondTreasury: [0x7982037614D744E87742bfe9C27405D683e2709A](https://blockexplorer.boba.network/address/0x7982037614D744E87742bfe9C27405D683e2709A)
+- USDC Bond: [0x950d959b1b032e82a4504ab118718F7c31F75119](https://blockexplorer.boba.network/address/0x950d959b1b032e82a4504ab118718F7c31F75119)
+- USDC/OLO LP Bond: [0x698c7F2646c7C6E71c7B6cd8115B0E7f45bA36E6](https://blockexplorer.boba.network/address/0x698c7F2646c7C6E71c7B6cd8115B0E7f45bA36E6)
+- StableOloLPBondingCalculator: [0x616a58D66f369c6C5EC1D27F06bc342913F83123](https://blockexplorer.boba.network/address/0x616a58D66f369c6C5EC1D27F06bc342913F83123)
 
 ### Oolong Farm Pool ID Mapping
 
