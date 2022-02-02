@@ -96,7 +96,7 @@
 ### Oolong Farm V2 Pool ID Mapping
 | Pool ID | LP Address | Pair | Allocation Points | Pool Weight | Bonus Farm | Bonus Reward |
 | ---- | -------- | ---- | ---- | ---- | -------- | ---- |
-| 0 | 0x3459AC1Bb44964086643b19f414eB38f5665D9C0 | ZENC/WETH | 5 | 0.38% | 0x738fA21c800624e54fD17381A7AD3950BbdC225A | ZENC |
+| 0 | 0x3459AC1Bb44964086643b19f414eB38f5665D9C0 | ZENC/WETH | 5 | 0.38% | 0x928724E2e6224075ADC0883518dabcdD691B32C4 | ZENC |
 
 *Total pool weight (excluding reduction to bonding reserve) = 1310
 
