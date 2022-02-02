@@ -68,7 +68,7 @@
 - USDC/OLO LP Bond: [0x698c7F2646c7C6E71c7B6cd8115B0E7f45bA36E6](https://blockexplorer.boba.network/address/0x698c7F2646c7C6E71c7B6cd8115B0E7f45bA36E6)
 - StableOloLPBondingCalculator: [0x616a58D66f369c6C5EC1D27F06bc342913F83123](https://blockexplorer.boba.network/address/0x616a58D66f369c6C5EC1D27F06bc342913F83123)
 
-### Oolong Farm Pool ID Mapping
+### Oolong Farm V1 Pool ID Mapping
 
 | Pool ID | LP Address | Pair | Allocation Points | Pool Weight | Bonus Farm | Bonus Reward |
 | ---- | -------- | ---- | ---- | ---- | -------- | ---- |
@@ -91,8 +91,14 @@
 | 16 | 0x93e3eA06eaA21e6fb0e69dC15e4959c99BA5789C | YOLOStakingWrapper | 320 | 24% | | |
 | 17 | 0xe3142701189C6afCC3346ed7f70AB05D307B78c1 | BORING/WETH | 0 | 0% | 0x87bfFf88f1Af399351FA5A1c408084120B38FCAa | BORING |
 | 18 | 0xbdd5df250594cdd5451ee7bbd52b8e30f4a5478d | aCYBER/FRAX | 0 | 2.24% | 0x1B8778cf87990c685920799A76611db5FcE6B88e | aCYBER |
+| 19 | 0x19a3AAd8d07558004AaC3F111fE4c8D76251839F | V2 Farm | 0 | 0% | | |
 
-*Total pool weight (excluding reduction to bonding reserve) = 1337
+### Oolong Farm V2 Pool ID Mapping
+| Pool ID | LP Address | Pair | Allocation Points | Pool Weight | Bonus Farm | Bonus Reward |
+| ---- | -------- | ---- | ---- | ---- | -------- | ---- |
+| 0 | 0x3459AC1Bb44964086643b19f414eB38f5665D9C0 | ZENC/WETH | 5 | 0.38% | 0x738fA21c800624e54fD17381A7AD3950BbdC225A | ZENC |
+
+*Total pool weight (excluding reduction to bonding reserve) = 1310
 
 *Native percentage = 69%
 
