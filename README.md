@@ -93,7 +93,7 @@
 | 16 | 0x93e3eA06eaA21e6fb0e69dC15e4959c99BA5789C | YOLOStakingWrapper | 320 | 24% | | |
 | 17 | 0xe3142701189C6afCC3346ed7f70AB05D307B78c1 | BORING/WETH | 0 (retired) | 0% | 0x87bfFf88f1Af399351FA5A1c408084120B38FCAa | BORING |
 | 18 | 0xbdd5df250594cdd5451ee7bbd52b8e30f4a5478d | aCYBER/FRAX | 0 (retired) | 2.24% | 0x1B8778cf87990c685920799A76611db5FcE6B88e | aCYBER |
-| 19 | 0x19a3AAd8d07558004AaC3F111fE4c8D76251839F | V2 Farm | 1050 (combined V2 pools) | 0% | | |
+| 19 | 0x19a3AAd8d07558004AaC3F111fE4c8D76251839F | V2 Farm | 1055 (combined V2 pools) | 0% | | |
 
 ### Oolong Farm V2 Pool ID Mapping
 | Pool ID | LP Address | Pair | Allocation Points | Pool Weight | Bonus Farm | Bonus Reward |
