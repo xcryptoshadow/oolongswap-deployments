@@ -110,9 +110,9 @@
 
 *Total pool weight (excluding reduction to bonding reserve) = 1580
 
-*Native percentage = 69%
+*Native percentage = 77%
 
-*Non-native percentage = 31%
+*Non-native percentage = 23%
 
 ### YOLO Pools
 WAGMI Reward Pool: `0x2849D33ccC4CCF426f53338bf0b8A2e33AA21672`
