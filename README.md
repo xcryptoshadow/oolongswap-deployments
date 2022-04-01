@@ -118,7 +118,9 @@
 *Non-native percentage = 23%
 
 ### YOLO Pools
-WAGMI Reward Pool: `0x2849D33ccC4CCF426f53338bf0b8A2e33AA21672`
+WAGMI_V0 Reward Pool: `0x2849D33ccC4CCF426f53338bf0b8A2e33AA21672`
+
+WAGMI_V2 Reward Pool: `0xf1850aA9E7dd0abDaBa5C0C1543c434bfFD37578`
 
 ### Dynamic Fee Pairs
 BUSD/USDC: `0.03%`
