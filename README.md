@@ -53,6 +53,7 @@
 - BonusFarmFactory: [0xcC253026d4582f321C5F49c6517C28533EBF7B55](https://blockexplorer.boba.network/address/0xcC253026d4582f321C5F49c6517C28533EBF7B55)
 - OolongFarm TokenDistributor: [0x4158576eEaeb2fB1B0Bd24a10E67D49Ac22C1589](https://blockexplorer.boba.network/address/0x4158576eEaeb2fB1B0Bd24a10E67D49Ac22C1589)
 - OolongClaimer: [0xB8D6780bd47027A7181f6C3e956513dcd910503B](https://blockexplorer.boba.network/address/0xB8D6780bd47027A7181f6C3e956513dcd910503B)
+- Locker: [0x83DB8Cc55670b3bDaF4deB730737D611fd20C6Bd](https://blockexplorer.boba.network/address/0x83DB8Cc55670b3bDaF4deB730737D611fd20C6Bd)
 - Cliff (Team) (Deprecated): [0xcDbf587fE5bF550A3f291c5F57b2d6287Ca68566](https://blockexplorer.boba.network/address/0xcDbf587fE5bF550A3f291c5F57b2d6287Ca68566)
 - Cliff (Angel) (Deprecated): [0x2c8AD9148dAFaef7B5b0236f82358d906Ac066eA](https://blockexplorer.boba.network/address/0x2c8AD9148dAFaef7B5b0236f82358d906Ac066eA)
 - Angel TokenDistributor: [0x02ff2D41b2BE9E8Ecbec0370390ffb0Cd991DAfe](https://blockexplorer.boba.network/address/0x02ff2D41b2BE9E8Ecbec0370390ffb0Cd991DAfe)
